@@ -1,6 +1,5 @@
 # AI-project
 
-[![Build Status](https://travis-ci.com/Developer-JG/AI-project.svg?branch=master)](https://travis-ci.com/Developer-JG/AI-project)
 ![python3.7](https://img.shields.io/badge/python-3.7.2-brightgreen)
 ![license](https://img.shields.io/badge/license-CC--BY--NC--SA-orange)
 
