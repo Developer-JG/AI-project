@@ -31,6 +31,9 @@ May
 15 official site_1 (3)
 16 official site_2 (6)
 17 official site_3 (2)
+
+Jun
+01 v.1.3a
 ```
 
 official sits URL : https://h56388800.wixsite.com/tria
